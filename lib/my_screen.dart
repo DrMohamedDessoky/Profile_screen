@@ -44,7 +44,7 @@ class MyScreen extends StatelessWidget {
               backgroundImage: AssetImage("assets/images/ropot.jpg"),
             ),
             SizedBox(
-              height: 20,
+              height: 21,
             ),
             Text(
               "Mohamed Dessoky",
